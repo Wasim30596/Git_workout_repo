@@ -1,6 +1,3 @@
 This is my first commit in git
 new line has been added
-4th line added newly
-5th line
-abc
-abvs
+4th line added newlys
